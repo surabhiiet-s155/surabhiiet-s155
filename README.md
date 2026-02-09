@@ -10,7 +10,7 @@
 ## 👩‍🎓 About Me
 
 Hello there!! 🤗 
-I’m **Surabhi**, a B.Tech Computer Science Engineering student at **SUIET**.  
+I’m **Surabhi**, a B.Tech CSE 2nd year student at **SUIET**.  
 I’m passionate about **developing solutions for real-world problems** and continuously improving my skills in software development.
 
 ---
@@ -23,6 +23,7 @@ I’m passionate about **developing solutions for real-world problems** and cont
   - HTML
   - CSS
   - Bootstrap
+  - C++
 - 🌱 Currently learning many more technologies
 
 ---
