@@ -1,13 +1,15 @@
 # 👩‍💻 Surabhi
 
 🎓 B.Tech CSE Student at SUIET  
+📈 Fellow at Nxtwave CCBP 4.0 Academy.
+🐍 Currently Learning Python.
 💡 Passionate about solving real-world problems through technology  
 
 ---
 
 ## 👩‍🎓 About Me
 
-Hello! 👋  
+Hello there!! 🤗 
 I’m **Surabhi**, a B.Tech Computer Science Engineering student at **SUIET**.  
 I’m passionate about **developing solutions for real-world problems** and continuously improving my skills in software development.
 
