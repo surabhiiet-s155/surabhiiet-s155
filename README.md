@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👩‍💻 Surabhi
 
-<!--
-**surabhiiet-s155/surabhiiet-s155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at SUIET  
+💡 Passionate about solving real-world problems through technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍🎓 About Me
+
+Hello! 👋  
+I’m **Surabhi**, a B.Tech Computer Science Engineering student at **SUIET**.  
+I’m passionate about **developing solutions for real-world problems** and continuously improving my skills in software development.
+
+---
+
+## 🎓 Learning & Experience
+
+- 🎓 B.Tech – Computer Science & Engineering (CSE)
+- 🚀 Fellow at **NxtWave CCBP 4.0 Academy**
+- 💻 Technologies learned:
+  - HTML
+  - CSS
+  - Bootstrap
+- 🌱 Currently learning many more technologies
+
+---
+
+## 🛠️ Skills
+
+- Frontend Development (Beginner)
+- Responsive Web Design
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 🔗 Connect With Me
+
+- 📸 **Instagram**: [_surabhi21.5](https://www.instagram.com/_surabhi21.5?igsh=MXU3andlMTlia2UxeA==)
+- 💼 **LinkedIn**: [Surabhi Subhas Chandra](https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356)
+- 📧 **Email**: asurabhisubhaschandra@gmail.com
+- 💻 **GitHub**: https://github.com/surabhiiet-s155
+
+---
+
+⭐ Thanks for visiting my GitHub profile!  
+Consistency over motivation 🚀
