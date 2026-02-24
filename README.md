@@ -1,40 +1,73 @@
 # 👩‍💻 Surabhi
+## Hello there!!🤗
 
-🎓 B.Tech CSE Student at SUIET  
-📈 Fellow at Nxtwave CCBP 4.0 Academy.
-🐍 Currently Learning Python.
-💡 Passionate about solving real-world problems through technology  
-
----
-
-## 👩‍🎓 About Me
-
-Hello there!! 🤗 
-I’m **Surabhi**, a B.Tech CSE 2nd year student at **SUIET**.  
-I’m passionate about **developing solutions for real-world problems** and continuously improving my skills in software development.
+🎓 B.Tech Computer Science Engineering Student  
+📈 Fellow at NxtWave CCBP 4.0 Academy 
+💻 Aspiring Full Stack Developer  
+🌱 Currently learning **Web Development & Python 🐍**  
+🔥 Focused on consistency and daily improvement  
 
 ---
 
-## 🎓 Learning & Experience
-
-- 🎓 B.Tech – Computer Science & Engineering (CSE)
-- 🚀 Fellow at **NxtWave CCBP 4.0 Academy**
-- 💻 Technologies learned:
-  - HTML
-  - CSS
-  - Bootstrap
-  - C++
-- 🌱 Currently learning many more technologies
+### 👩‍💻 About Me
+- 2nd Year Engineering Student (CSE)
+- Completed HTML fundamentals
+- Currently exploring CSS & Python
+- Interested in Web Development & Problem Solving
+- Believe in **discipline, consistency & growth mindset**
 
 ---
 
-## 🛠️ Skills
+### 🚀 What I’m Doing Now
+- Building small web projects using HTML
+- Practicing Python basics daily
+- Strengthening core programming concepts
+- Learning step-by-step Data Structures
 
-- Frontend Development (Beginner)
-- Responsive Web Design
+---
+
+### 🛠️ Skills
+
+**Web Development**
+- HTML ✅
+- CSS (Learning)
+- BootStrap
+
+**Programming**
+- Python 🐍 (Beginner Level)
+- C Programming
+
+**Tools & Platforms**
 - Git & GitHub
-- Problem Solving
+- VS Code
+- Basic Command Line
 
+---
+
+### 📂 Projects
+- 🌐 Personal Portfolio Website (HTML)
+- 🧪 Python Beginner Programs
+- 🧩 HTML Mini Projects (Lists, Tables, Forms, etc.)
+
+---
+
+### 🎯 2026 Learning Goals
+- Become confident in Python programming
+- Master HTML & CSS
+- Start JavaScript
+- Learn Data Structures step by step
+- Build real-world mini projects
+
+---
+
+### ⏳ Daily Routine
+- ⌨️ Code every day (even small programs)
+- 📘 Revise previously learned concepts
+- 🔁 Improve through consistency
+
+---
+
+✨ Learning every day. Growing step by step. Building my future through code.
 ---
 
 ## 🔗 Connect With Me
