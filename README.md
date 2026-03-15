@@ -72,7 +72,7 @@
 
 ## 🔗 Connect With Me
 
-- 📸 **Instagram**: [_surabhi21.5](https://www.instagram.com/_surabhi21.5?igsh=MXU3andlMTlia2UxeA==)
+- 📸 **Instagram**: [_sudha.2028](https://www.instagram.com/_surabhi21.5?igsh=MXU3andlMTlia2UxeA==)
 - 💼 **LinkedIn**: [Surabhi Subhas Chandra](https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356)
 - 📧 **Email**: asurabhisubhaschandra@gmail.com
 - 💻 **GitHub**: https://github.com/surabhiiet-s155
