@@ -67,19 +67,6 @@ A professional corporate website built for a real client with responsive layouts
 
 ---
 
-## 📱 Shruthi - Digital Tambura Android App
-
-A Digital Tambura Android application developed for Indian Classical Music practice.
-
-### Features
-
-* Responsive Mobile Interface
-* Audio Playback
-* User-Friendly Controls
-* Modern Design
-
----
-
 ## 🏭 Mahalaxmi Industrial Website
 
 A professional industrial website built for a real business.
@@ -209,48 +196,6 @@ A professional industrial website built for a real business.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surabhiiet-s155&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhiiet-s155&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=surabhiiet-s155&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=surabhiiet-s155&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surabhiiet-s155&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 📧 **Email**
@@ -273,7 +218,7 @@ https://github.com/surabhiiet-s155
 
 # 💙 A Quote I Live By
 
-> **"Success isn't built overnight. It's built one commit, one project, one lesson, and one day at a time."**
+> **"Success isn't built overnight. It's built on Consistency and Discipline"**
 
 ---
 
