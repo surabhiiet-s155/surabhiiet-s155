@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Surabhi
+# Hi 👋, I'm Surabhi D/O Subhas Chandra 
 
 ### 💻 Computer Science Engineering Student | Software Developer | Lifelong Learner
 
