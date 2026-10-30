@@ -87,7 +87,7 @@ A professional industrial website built for a real business.
 
 * ☕ Java
 * 🐍 Python *(Currently Learning)*
-* 💻 C
+* 💻 C++
 * 🌐 JavaScript
 
 ---
@@ -114,6 +114,7 @@ A professional industrial website built for a real business.
 * GitHub
 * VS Code
 * Android Studio
+* Antigravity
 
 ---
 
