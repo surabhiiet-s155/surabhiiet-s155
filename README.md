@@ -1,75 +1,80 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:243B55,100:00C9FF&height=200&section=header&text=SURABHI&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descSize=18&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05001F,25:17105E,60:174A8B,100:00D4FF&height=230&section=header&text=SURABHI&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=17&descAlignY=58&animation=twinkling"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=00C9FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Software+Developer+in+Progress;Building+Real-World+Projects;Learning+Something+New+Every+Day;Turning+Ideas+Into+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2000&pause=700&color=00D4FF&center=true&vCenter=true&width=750&height=100&lines=Hello%2C+World!+I'm+Surabhi+%F0%9F%91%8B;Computer+Science+Engineering+Student;Java+%7C+Python+%7C+Web+Development;Building+Ideas+Into+Reality;587%2B+Contributions+and+Counting!;Code.+Create.+Innovate.+Repeat." />
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/surabhiiet-s155">
-<img src="https://komarev.com/ghpvc/?username=surabhiiet-s155&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS"/>
-</a>
-<a href="https://github.com/surabhiiet-s155?tab=followers">
+<img src="https://komarev.com/ghpvc/?username=surabhiiet-s155&style=for-the-badge&color=00D4FF&label=PROFILE+VISITORS"/>
 <img src="https://img.shields.io/github/followers/surabhiiet-s155?style=for-the-badge&color=7B61FF&label=FOLLOWERS"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:asurabhisubhaschandra@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### ✦ Developer | Learner | Creator ✦
+### ⚡ LEARN • BUILD • INNOVATE • REPEAT
 
-*Building my future, one commit at a time.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square\&logo=github)](https://github.com/surabhiiet-s155)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:asurabhisubhaschandra@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24&height=3&section=header" width="85%"/>
 
 </div>
 
----
+## 👩🏻‍💻 ABOUT ME
 
-<div align="center">
+```python
+class Surabhi:
 
-## ◈ ABOUT ME
+    def __init__(self):
+        self.name = "Surabhi"
+        self.education = "Computer Science Engineering"
+        self.university = "Srinivas University"
+        self.location = "Mangaluru, India"
+        self.role = "Aspiring Software Engineer"
 
-</div>
+        self.languages = ["Java", "Python", "C", "JavaScript"]
 
-```yaml
-name: Surabhi
-education: Computer Science Engineering
-university: Srinivas University, Mangaluru
-role: Software Developer in Progress
-internship: Abhimo Technologies
-fellowship: NxtWave CCBP 4.0 Academy
+        self.interests = [
+            "Software Development",
+            "Web Development",
+            "Problem Solving",
+            "Artificial Intelligence"
+        ]
 
-interests:
-  - Software Development
-  - Web Development
-  - Problem Solving
-  - Artificial Intelligence
-  - Building Real-World Projects
+    def motto(self):
+        return "Consistency turns potential into excellence."
 
-mindset: Learn. Build. Improve. Repeat.
+me = Surabhi()
 ```
 
-* 🎓 Third-year CSE student passionate about technology.
-* 💼 Former Software Development Intern.
-* 🚀 Hackathon participant and project developer.
-* 💻 Exploring programming, web development and software engineering.
+* 🎓 Third-year Computer Science Engineering student.
+* 💼 Former Software Development Intern at Abhimo Technologies.
+* 🚀 Fellow at NxtWave CCBP 4.0 Academy.
+* 💻 Building practical software applications.
+* 🌱 Continuously learning and improving.
 * 🎯 Working towards becoming an industry-ready Software Engineer.
 
-> *I don't just want to learn technology. I want to use it to build things that matter.*
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Think+Big.+Code+Smart.+Stay+Consistent.;Every+Commit+Takes+Me+Forward." />
+
+</div>
 
 ---
 
 <div align="center">
 
-## ◈ TECH ARSENAL
+## ⚡ MY TECH ARSENAL
 
-### Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
 
@@ -77,7 +82,7 @@ mindset: Learn. Build. Improve. Repeat.
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
 
-### Backend & Database
+### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=flask,mysql,mongodb&theme=dark" />
 
@@ -91,9 +96,9 @@ mindset: Learn. Build. Improve. Repeat.
 
 <div align="center">
 
-## ◈ EXPERIENCE
+## 💼 PROFESSIONAL EXPERIENCE
 
-### 💼 Software Development Intern
+### Software Development Intern
 
 **Abhimo Technologies | May – July 2026**
 
@@ -107,49 +112,26 @@ Developed a responsive corporate website and gained practical experience in real
 
 <div align="center">
 
-## ◈ FEATURED PROJECTS
+## 🚀 PROJECT SHOWCASE
 
-*Ideas transformed into working applications.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Turning+Ideas+Into+Applications;Building+Solutions+That+Matter"/>
 
 </div>
 
-### 01 | 🌐 Abhimo Technologies Website
-
-A responsive corporate website built for a real business during my internship.
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
----
-
-### 02 | 🍱 FoodBridge AI
-
-An AI-powered food rescue platform connecting surplus food donors with NGOs and volunteers.
-
-`React` `Python` `MongoDB` `AI`
-
----
-
-### 03 | 🛡️ AI Network Intrusion Detection
-
-A machine learning application that identifies suspicious network traffic and classifies cyberattacks.
-
-`Python` `Flask` `Scikit-learn` `Pandas`
-
----
-
-### 04 | 🎵 SHRUTI – Digital Tambura
-
-A digital musical instrument offering traditional tambura sounds with customizable pitch and volume.
-
-`Flutter` `Dart` `Audio Players`
+| Project                         | Description                                            | Technologies                |
+| :------------------------------ | :----------------------------------------------------- | :-------------------------- |
+| 🌐 Abhimo Website               | Responsive corporate website for a real business.      | HTML, CSS, JS, Bootstrap    |
+| 🍱 FoodBridge AI                | AI-powered surplus food donation and rescue platform.  | React, Python, MongoDB      |
+| 🛡️ Network Intrusion Detection | ML-based network attack detection and analysis.        | Python, Flask, Scikit-learn |
+| 🎵 SHRUTI                       | Digital Tambura with musical notes and sound controls. | Flutter, Dart               |
 
 ---
 
 <div align="center">
 
-## ◈ GITHUB TROPHIES
+## 🏆 GITHUB ACHIEVEMENTS
 
-<img src="https://github-profile-trophy.vercel.app/?username=surabhiiet-s155&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=surabhiiet-s155&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4"/>
 
 </div>
 
@@ -157,15 +139,15 @@ A digital musical instrument offering traditional tambura sounds with customizab
 
 <div align="center">
 
-## ◈ GITHUB STATISTICS
+## 📊 GITHUB ANALYTICS
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=surabhiiet-s155&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=surabhiiet-s155&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhiiet-s155&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhiiet-s155&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=surabhiiet-s155&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=surabhiiet-s155&theme=tokyonight&hide_border=true&ring=00D4FF&fire=7B61FF&currStreakLabel=00D4FF"/>
 
 </div>
 
@@ -173,9 +155,11 @@ A digital musical instrument offering traditional tambura sounds with customizab
 
 <div align="center">
 
-## ◈ CONTRIBUTION ACTIVITY
+## 🐍 MY CONTRIBUTION JOURNEY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surabhiiet-s155&bg_color=1a1b27&color=70a5fd&line=00c9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+*Every contribution represents another step forward.*
+
+<img src="https://raw.githubusercontent.com/surabhiiet-s155/surabhiiet-s155/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 
 </div>
 
@@ -183,54 +167,64 @@ A digital musical instrument offering traditional tambura sounds with customizab
 
 <div align="center">
 
-## ◈ CURRENTLY EXPLORING
+## 📈 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surabhiiet-s155&bg_color=0D1117&color=00D4FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true&custom_title=Surabhi's%20Coding%20Journey" width="100%"/>
 
 </div>
-
-| Focus              | Goal                            |
-| :----------------- | :------------------------------ |
-| ☕ Java             | Strong programming fundamentals |
-| 🐍 Python          | Problem solving and development |
-| 🧠 DSA             | Logical thinking and algorithms |
-| 🌐 Web Development | Full-stack development          |
-| 🗄️ Databases      | SQL and MongoDB                 |
-| 🚀 Career          | Software Engineering placements |
 
 ---
 
 <div align="center">
 
-## ◈ BEYOND CODE
+## 🎯 2026 DEVELOPMENT GOALS
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Master+Java+%26+Python;Strengthen+DSA+Fundamentals;Build+Industry-Level+Projects;Explore+Full-Stack+Development;Become+Placement+Ready"/>
+
+</div>
+
+* [ ] Strengthen Java and Python.
+* [ ] Practice Data Structures and Algorithms.
+* [ ] Build industry-level projects.
+* [ ] Improve full-stack development.
+* [ ] Contribute to open source.
+* [ ] Prepare for software engineering placements.
+
+---
+
+<div align="center">
+
+## 🌸 BEYOND THE CODE
 
 💃 Dance   •   🕉️ Spiritual Growth   •   📚 Learning   •   🎯 Discipline
 
 <br/>
 
-## ◈ LET'S CONNECT
+## 🤝 LET'S BUILD SOMETHING AMAZING
 
+<a href="https://github.com/surabhiiet-s155">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 <a href="https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:asurabhisubhaschandra@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/surabhiiet-s155">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 <a href="https://www.instagram.com/_surabhi21.5">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 <br/><br/>
 
-### ✦ MY DEVELOPER PHILOSOPHY ✦
-
-# "Dream. Develop. Debug. Repeat."
-
-*Every commit is a small step towards something extraordinary.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Dream+Big.+Stay+Humble.;Code+With+Purpose.;Consistency+Creates+Excellence."/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:243B55,100:00C9FF&height=120&section=footer" width="100%"/>
+### ⭐ THANK YOU FOR VISITING MY PROFILE!
+
+*The journey from learning to building never stops.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05001F,25:17105E,60:174A8B,100:00D4FF&height=130&section=footer&animation=twinkling"/>
 
 </div>
