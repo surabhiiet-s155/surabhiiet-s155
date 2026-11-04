@@ -1,234 +1,283 @@
 <div align="center">
 
-# Hi 👋, I'm Surabhi D/O Subhas Chandra 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:141E30,50:243B55,100:4776E6&text=SURABHI&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=Computer%20Science%20Engineer%20%7C%20Developer%20%7C%20Creator&descSize=17&descAlignY=65&animation=fadeIn" width="100%" />
 
-### 💻 Computer Science Engineering Student | Software Developer | Lifelong Learner
+<br/>
 
-*"Building real-world solutions through code, consistency, and continuous learning."*
+<a href="https://github.com/surabhiiet-s155">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=4776E6&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Real+Projects;Learning+%7C+Developing+%7C+Growing;Exploring+Software+Engineering;Code.+Create.+Contribute.+Repeat." alt="Typing SVG"/>
+</a>
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Software+Developer;Java+%7C+Web+Development+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New!" alt="Typing SVG" />
-</p>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=surabhiiet-s155\&label=Profile%20Views\&color=0e75b6\&style=flat)
+<img src="https://komarev.com/ghpvc/?username=surabhiiet-s155&label=PROFILE+VIEWS&color=4776E6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/surabhiiet-s155?label=FOLLOWERS&style=for-the-badge&color=243B55" />
+
+<br/><br/>
+
+### Turning curiosity into code and ideas into impact.
+
+[LinkedIn](https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356) • [GitHub](https://github.com/surabhiiet-s155) • [Email](mailto:asurabhisubhaschandra@gmail.com)
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
-🎓 I'm a **3rd Year (5th Semester) B.Tech Computer Science Engineering** student passionate about software development and creating impactful solutions.
+Hello! I'm **Surabhi**, a Computer Science Engineering student at **Srinivas University, Mangaluru, India**.
 
-💼 I completed a **2-Month Software Development Internship at Abhimo Technologies**, where I worked on live client projects, responsive websites, UI/UX improvements, Git & GitHub workflows, deployment, and collaborative software development.
+I'm passionate about software development, problem-solving, and building technology that solves real-world problems.
 
-🌐 I have successfully built **3 real-world projects**, gaining valuable industrial experience while solving practical business problems.
+Currently, I'm focused on strengthening my programming fundamentals, exploring full-stack development, and developing practical software solutions.
 
-🚀 I am also a **Fellow at NxtWave CCBP 4.0 Academy**, continuously improving my programming and development skills.
+* 🎓 Third-year Computer Science Engineering student.
+* 💼 Former Software Development Intern at Abhimo Technologies.
+* 🚀 Fellow at NxtWave CCBP 4.0 Academy.
+* 🌐 Experienced in building responsive websites and practical applications.
+* 💻 Exploring Java, Python, Web Development and Software Engineering.
+* 🤝 Interested in hackathons, collaborative development and open-source contributions.
+* 🎯 Working towards becoming an industry-ready Software Engineer.
 
-💡 I strongly believe that
-
-> **Consistency + Learning + Building = Growth**
-
----
-
-# 💼 Professional Experience
-
-## Software Development Intern
-
-### Abhimo Technologies
-
-### Responsibilities
-
-* 💻 Developed responsive business websites
-* 🌐 Worked on real client projects
-* 🎨 Designed modern and user-friendly interfaces
-* 📱 Optimized websites for mobile, tablet, and desktop
-* 🤝 Collaborated with developers and mentors
-* 🔧 Used Git & GitHub for version control
-* 🚀 Assisted in deployment and project maintenance
-* 📈 Followed industry-standard development practices
-* 💡 Solved real-world development challenges
+> I believe great developers are not built by what they know today, but by how consistently they learn, build and improve.
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-## 🌐 Abhimo Technologies Website
+### Programming Languages
 
-A professional corporate website built for a real client with responsive layouts and modern UI.
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
+</p>
 
-**Tech Stack**
+### Frontend Development
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+</p>
 
----
+### Backend & Database
 
-## 🏭 Mahalaxmi Industrial Website
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,flask&theme=dark" />
+</p>
 
-A professional industrial website built for a real business.
+### Development Tools
 
-### Features
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,flutter,dart&theme=dark" />
+</p>
 
-* Responsive Design
-* Professional UI
-* Service Pages
-* Contact Forms
-* Modern Layout
+### Currently Strengthening
 
----
-
-# 🛠️ Tech Stack
-
-## Programming Languages
-
-* ☕ Java
-* 🐍 Python *(Currently Learning)*
-* 💻 C++
-* 🌐 JavaScript
+* Data Structures and Algorithms
+* Object-Oriented Programming
+* Advanced Java
+* Python Programming
+* SQL and Database Management
+* Full-Stack Development
+* Software Development Practices
 
 ---
 
-## Frontend Development
+## 💼 Professional Experience
 
-* HTML5
-* CSS3
-* Bootstrap
-* Responsive Web Design
+### Software Development Intern | Abhimo Technologies
 
----
+**May 2026 – July 2026**
 
-## Database
+Completed a two-month software development internship, gaining practical experience in website development and real-world project implementation.
 
-* MySQL
-* SQL *(Currently Learning)*
+**Key Contributions:**
 
----
+* Developed the Abhimo Technologies corporate website.
+* Implemented responsive layouts using HTML, CSS and JavaScript.
+* Used Bootstrap for responsive UI development.
+* Improved website navigation and user experience.
+* Worked on website sections, services and contact interfaces.
+* Used Git and GitHub for version control.
+* Gained experience with deployment and website maintenance.
+* Worked on practical development challenges.
 
-## Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Android Studio
-* Antigravity
+**Technologies:** HTML | CSS | JavaScript | Bootstrap | Git | GitHub
 
 ---
 
-## Professional Skills
+## 🚀 Featured Projects
 
-* Responsive Web Development
-* Problem Solving
-* Debugging
-* UI Development
-* Version Control
-* Team Collaboration
-* Client Project Development
+A selection of projects through which I explore technologies, develop practical skills and solve real-world problems.
 
----
+### 01. 🌐 Abhimo Technologies – Corporate Website
 
-# 📚 Currently Learning
+A responsive corporate website developed during my software development internship.
 
-* ☕ Advanced Java Programming
-* 🐍 Python Programming
-* 🗄️ Basic SQL
-* 📚 Data Structures & Algorithms
-* 🌐 Full Stack Development
-* ⚙️ Software Engineering Best Practices
+**Highlights:**
+
+* Professional business website design.
+* Responsive layouts.
+* Service and internship sections.
+* Interactive user interfaces.
+* Contact and application sections.
+
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap
 
 ---
 
-# 🏆 Achievements
+### 02. 🍱 FoodBridge AI – Smart Food Rescue Platform
 
-🏅 Completed **2-Month Software Development Internship at Abhimo Technologies**
+An AI-powered surplus food rescue and donation platform designed to connect food donors with NGOs and people in need.
 
-🌐 Successfully Developed **3 Real-World Projects**
+**Highlights:**
 
-🎓 Fellow at **NxtWave CCBP 4.0 Academy**
+* Donor and NGO management.
+* Food donation management.
+* Location-based food matching.
+* Volunteer coordination.
+* Food rescue and donation tracking.
+* Designed to reduce food waste and support communities.
 
-💻 Maintaining Consistent GitHub Contributions
-
-📈 Continuously Learning New Technologies
-
-🚀 Building Projects to Solve Real-World Problems
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Become an Industry-Ready Software Developer
-* ☕ Master Java Programming
-* 📚 Master Data Structures & Algorithms
-* 🌐 Become a Full Stack Developer
-* 💻 Build More Real-World Projects
-* 🤝 Contribute to Open Source
-* 📈 Strengthen Problem Solving Skills
-* 🎯 Secure a Software Development Role
+**Tech Stack:** React, JavaScript, Python, MongoDB, AI Integration
 
 ---
 
-# 🌱 What I'm Doing Every Day
+### 03. 🛡️ AI-Based Network Intrusion Detection
 
-* 💻 Coding consistently
-* 📚 Learning new technologies
-* 🧩 Solving programming problems
-* 🚀 Building projects
-* 📖 Improving software engineering skills
-* 🌍 Exploring industry best practices
+A machine learning-based project designed to identify suspicious network activity and classify potential cyberattacks.
 
----
+**Highlights:**
 
-# 💡 Core Values
+* Network traffic analysis.
+* Normal and attack classification.
+* Detection of attack categories.
+* Dashboard for displaying analysis results.
+* Machine learning-based prediction.
 
-✔ Consistency
-
-✔ Continuous Learning
-
-✔ Clean Code
-
-✔ Teamwork
-
-✔ Problem Solving
-
-✔ Growth Mindset
+**Tech Stack:** Python, Flask, Scikit-learn, Pandas, HTML, CSS
 
 ---
 
-# 🌐 Connect With Me
+### 04. 🎵 SHRUTI – Digital Tambura
 
-📧 **Email**
+A digital musical instrument application designed to provide a traditional tambura experience through a digital interface.
 
-**[asurabhisubhaschandra@gmail.com](mailto:asurabhisubhaschandra@gmail.com)**
+**Highlights:**
 
-💼 **LinkedIn**
+* Digital tambura sound playback.
+* Multiple musical notes.
+* Pitch and volume controls.
+* Classical-inspired user interface.
 
-https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356
-
-📸 **Instagram**
-
-https://www.instagram.com/_surabhi21.5
-
-💻 **GitHub**
-
-https://github.com/surabhiiet-s155
+**Tech Stack:** Flutter, Dart, Audio Players
 
 ---
 
-# 💙 A Quote I Live By
+## 🏆 Experience & Achievements
 
-> **"Success isn't built overnight. It's built on Consistency and Discipline"**
+* 🏅 Completed a two-month Software Development Internship at Abhimo Technologies.
+* 🌐 Developed a corporate website through practical industry experience.
+* 🚀 Participated in Nexathon, a hackathon at SDIT, Mangaluru, with the FoodBridge AI project.
+* 🎓 Fellow at NxtWave CCBP 4.0 Academy.
+* 💻 Building projects across web development, machine learning and application development.
+* 📚 Continuously strengthening programming and software engineering skills.
 
 ---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=surabhiiet-s155&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-### Let's connect, collaborate, and build something amazing together. 🚀
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhiiet-s155&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-*"Every line of code brings me one step closer to becoming the developer I aspire to be."*
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=surabhiiet-s155&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surabhiiet-s155&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🎯 My Development Roadmap
+
+| Area            | Current Focus                |
+| --------------- | ---------------------------- |
+| Programming     | Java, Python, C              |
+| Problem Solving | Data Structures & Algorithms |
+| Web Development | HTML, CSS, JavaScript, React |
+| Backend         | Python and Java              |
+| Database        | SQL and MongoDB              |
+| Tools           | Git, GitHub, VS Code         |
+| Career          | Software Engineering         |
+
+### My Goals
+
+* [ ] Strengthen Java and Python fundamentals.
+* [ ] Practice DSA consistently.
+* [ ] Build industry-level projects.
+* [ ] Improve full-stack development skills.
+* [ ] Contribute to open-source projects.
+* [ ] Maintain consistent GitHub activity.
+* [ ] Prepare for software engineering placements.
+
+---
+
+## 🌱 Beyond Coding
+
+I believe personal growth is just as important as technical growth.
+
+Outside software development, I enjoy:
+
+* 💃 Dance and creative expression.
+* 🕉️ Spirituality and personal growth.
+* 📚 Continuous learning.
+* 🎯 Building discipline and consistency.
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always interested in connecting with developers, learning from experienced professionals, collaborating on projects and exploring new opportunities.
+
+<div align="center">
+
+<a href="mailto:asurabhisubhaschandra@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/surabhiiet-s155">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_surabhi21.5">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💙 A Developer's Mindset
+
+*"Dream big. Start small. Code daily. Stay consistent."*
+
+**Learning today. Building tomorrow. Creating impact along the way.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
