@@ -1,236 +1,156 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:243B55,100:00C9FF&height=200&section=header&text=SURABHI&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descSize=18&descAlignY=58&animation=fadeIn"/>
+<img src="assets/surabhi-header.gif" width="100%" alt="Animated Surabhi developer banner">
 
-<br/>
+### Computer Science Engineering Student · Software Developer · Lifelong Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=00C9FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Software+Developer+in+Progress;Building+Real-World+Projects;Learning+Something+New+Every+Day;Turning+Ideas+Into+Technology" />
+**I turn curiosity into code, and ideas into practical projects.**
 
-<br/><br/>
-
-<a href="https://github.com/surabhiiet-s155">
-<img src="https://komarev.com/ghpvc/?username=surabhiiet-s155&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS"/>
-</a>
-<a href="https://github.com/surabhiiet-s155?tab=followers">
-<img src="https://img.shields.io/github/followers/surabhiiet-s155?style=for-the-badge&color=7B61FF&label=FOLLOWERS"/>
-</a>
-
-<br/><br/>
-
-### ✦ Developer | Learner | Creator ✦
-
-*Building my future, one commit at a time.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square\&logo=github)](https://github.com/surabhiiet-s155)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:asurabhisubhaschandra@gmail.com)
+[GitHub](https://github.com/surabhiiet-s155)　✦　[LinkedIn](https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356)　✦　[Email](mailto:asurabhisubhaschandra@gmail.com)
 
 </div>
 
----
+<img src="assets/neon-divider.gif" width="100%" alt="Animated neon divider">
+
+## `01` — About Me
+
+Hi, I'm **Surabhi**, a Computer Science Engineering student at **Srinivas University, Mangaluru**.
+
+I'm interested in software development, web technologies and building applications that solve practical problems.
+
+- 🎓 Third-year Computer Science Engineering student.
+- 💼 Former Software Development Intern at **Abhimo Technologies**.
+- 🚀 Fellow at **NxtWave CCBP 4.0 Academy**.
+- 🧩 Interested in problem-solving, application development and teamwork.
+- 🌱 Always learning, experimenting and improving.
+
+> **My approach:** Stay curious. Build consistently. Learn from every iteration.
+
+<img src="assets/neon-divider.gif" width="100%" alt="Animated neon divider">
+
+## `02` — Tech Stack
 
 <div align="center">
 
-## ◈ ABOUT ME
+| LANGUAGES | FRONTEND | BACKEND & DATA | TOOLS |
+|:---:|:---:|:---:|:---:|
+| Java · Python · C · JavaScript | HTML · CSS · Bootstrap · React | Flask · MySQL · MongoDB | Git · GitHub · VS Code |
+| | | | Flutter · Dart · Android Studio |
 
 </div>
 
-```yaml
-name: Surabhi
-education: Computer Science Engineering
-university: Srinivas University, Mangaluru
-role: Software Developer in Progress
-internship: Abhimo Technologies
-fellowship: NxtWave CCBP 4.0 Academy
+<img src="assets/neon-divider.gif" width="100%" alt="Animated neon divider">
 
-interests:
-  - Software Development
-  - Web Development
-  - Problem Solving
-  - Artificial Intelligence
-  - Building Real-World Projects
+## `03` — Experience
 
-mindset: Learn. Build. Improve. Repeat.
-```
+### Software Development Intern · Abhimo Technologies
+**May – July 2026**
 
-* 🎓 Third-year CSE student passionate about technology.
-* 💼 Former Software Development Intern.
-* 🚀 Hackathon participant and project developer.
-* 💻 Exploring programming, web development and software engineering.
-* 🎯 Working towards becoming an industry-ready Software Engineer.
+Developed a responsive corporate website and gained hands-on experience with real-world web development.
 
-> *I don't just want to learn technology. I want to use it to build things that matter.*
+`HTML` `CSS` `JavaScript` `Bootstrap` `Git` `GitHub`
 
----
+<img src="assets/neon-divider.gif" width="100%" alt="Animated neon divider">
+
+## `04` — Project Lab
+
+*Select a project to expand its overview.*
+
+<details>
+<summary><strong>🌐 Abhimo Technologies — Corporate Website</strong> · Web Development</summary>
+
+A responsive corporate website built during my software development internship.
+
+**Highlights:** Business pages · Responsive layouts · Services · Contact and application sections
+
+**Stack:** HTML · CSS · JavaScript · Bootstrap
+
+</details>
+
+<details>
+<summary><strong>🍱 FoodBridge AI — Food Rescue Platform</strong> · Web Application / AI</summary>
+
+A platform connecting surplus-food donors with NGOs and volunteers to help reduce food waste.
+
+**Highlights:** Donation management · Donor and NGO coordination · Location-based matching · Volunteer workflow
+
+**Stack:** React · Python · MongoDB · AI integration
+
+</details>
+
+<details>
+<summary><strong>🛡️ AI-Based Network Intrusion Detection</strong> · Machine Learning</summary>
+
+A machine-learning project that classifies network activity as normal or potentially malicious.
+
+**Highlights:** Traffic analysis · Attack classification · Prediction dashboard
+
+**Stack:** Python · Flask · Scikit-learn · Pandas
+
+</details>
+
+<details>
+<summary><strong>🎵 SHRUTI — Digital Tambura</strong> · App Development</summary>
+
+A digital tambura experience with musical-note playback and sound controls.
+
+**Highlights:** Note playback · Pitch control · Volume control · Classical-inspired interface
+
+**Stack:** Flutter · Dart · Audio Players
+
+</details>
+
+> **Project note:** Add each repository's actual URL and demo link to its card once you have confirmed the public links. Keep the technology list aligned with what is implemented in each project.
+
+<img src="assets/neon-divider.gif" width="100%" alt="Animated neon divider">
+
+## `05` — GitHub Activity
 
 <div align="center">
 
-## ◈ TECH ARSENAL
+**Consistency is built one meaningful contribution at a time.**
 
-### Languages
+[![GitHub Contributions](https://img.shields.io/badge/2026%20Contributions-View%20Live%20Graph-22C55E?style=for-the-badge&logo=github)](https://github.com/surabhiiet-s155)
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=flask,mysql,mongodb&theme=dark" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,flutter,dart,androidstudio&theme=dark" />
+[Open my GitHub contribution calendar](https://github.com/surabhiiet-s155)
 
 </div>
 
----
+*GitHub's own contribution calendar on the profile is the reliable live source. I have intentionally not embedded third-party stats images here, so the main README layout does not break when a stats service is unavailable.*
+
+<img src="assets/neon-divider.gif" width="100%" alt="Animated neon divider">
+
+## `06` — Currently Learning
+
+| Focus | What I'm improving |
+|:--|:--|
+| Java & Python | Programming fundamentals and practice |
+| Data Structures & Algorithms | Logic, problem-solving and efficiency |
+| Web Development | Frontend and full-stack development |
+| Databases | SQL and MongoDB |
+| Software Engineering | Project structure, debugging and clean code |
+
+## `07` — Milestones
+
+- 🏅 Completed a two-month Software Development Internship at Abhimo Technologies.
+- 🎓 NxtWave CCBP 4.0 Academy Fellow.
+- 🚀 Participated in Nexathon with the FoodBridge AI project.
+- 💻 Built projects across web development, machine learning and app development.
+
+## `08` — Beyond the Screen
+
+Dance · Spiritual growth · Creative expression · Continuous learning
+
+## `09` — Connect
 
 <div align="center">
 
-## ◈ EXPERIENCE
+[LinkedIn](https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356)　✦　[GitHub](https://github.com/surabhiiet-s155)　✦　[Email](mailto:asurabhisubhaschandra@gmail.com)　✦　[Instagram](https://www.instagram.com/_surabhi21.5)
 
-### 💼 Software Development Intern
+<br>
 
-**Abhimo Technologies | May – July 2026**
+<img src="assets/surabhi-footer.gif" width="100%" alt="Animated portfolio footer">
 
-</div>
-
-Developed a responsive corporate website and gained practical experience in real-world software development.
-
-**Worked with:** HTML • CSS • JavaScript • Bootstrap • Git • GitHub
-
----
-
-<div align="center">
-
-## ◈ FEATURED PROJECTS
-
-*Ideas transformed into working applications.*
-
-</div>
-
-### 01 | 🌐 Abhimo Technologies Website
-
-A responsive corporate website built for a real business during my internship.
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
----
-
-### 02 | 🍱 FoodBridge AI
-
-An AI-powered food rescue platform connecting surplus food donors with NGOs and volunteers.
-
-`React` `Python` `MongoDB` `AI`
-
----
-
-### 03 | 🛡️ AI Network Intrusion Detection
-
-A machine learning application that identifies suspicious network traffic and classifies cyberattacks.
-
-`Python` `Flask` `Scikit-learn` `Pandas`
-
----
-
-### 04 | 🎵 SHRUTI – Digital Tambura
-
-A digital musical instrument offering traditional tambura sounds with customizable pitch and volume.
-
-`Flutter` `Dart` `Audio Players`
-
----
-
-<div align="center">
-
-## ◈ GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=surabhiiet-s155&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ GITHUB STATISTICS
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=surabhiiet-s155&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhiiet-s155&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=surabhiiet-s155&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surabhiiet-s155&bg_color=1a1b27&color=70a5fd&line=00c9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ CURRENTLY EXPLORING
-
-</div>
-
-| Focus              | Goal                            |
-| :----------------- | :------------------------------ |
-| ☕ Java             | Strong programming fundamentals |
-| 🐍 Python          | Problem solving and development |
-| 🧠 DSA             | Logical thinking and algorithms |
-| 🌐 Web Development | Full-stack development          |
-| 🗄️ Databases      | SQL and MongoDB                 |
-| 🚀 Career          | Software Engineering placements |
-
----
-
-<div align="center">
-
-## ◈ BEYOND CODE
-
-💃 Dance   •   🕉️ Spiritual Growth   •   📚 Learning   •   🎯 Discipline
-
-<br/>
-
-## ◈ LET'S CONNECT
-
-<a href="https://www.linkedin.com/in/surabhi-subhas-chandra-8b6a7a356">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:asurabhisubhaschandra@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/surabhiiet-s155">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/_surabhi21.5">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### ✦ MY DEVELOPER PHILOSOPHY ✦
-
-# "Dream. Develop. Debug. Repeat."
-
-*Every commit is a small step towards something extraordinary.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:243B55,100:00C9FF&height=120&section=footer" width="100%"/>
+**Thanks for stopping by. Let's build something meaningful.**
 
 </div>
